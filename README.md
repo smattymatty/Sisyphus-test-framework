@@ -43,7 +43,7 @@ Hidden within the framework is an untold story—a 5-act Greek tragedy told thro
 - **Act IV: Inescapable Truths** *(Levels 31-40)* - Secrets are revealed
 - **Act V: The Eternal Cycle** *(Levels 41-50)* - Acceptance of the absurd
 
-Each level unlocks one story fragment. Inspired by Greek Mythology and the works of Albert Camus; "The Myth of Sisyphus", and "The Guest". 
+Each level unlocks one story fragment. Inspired by Greek Mythology and the works of Albert Camus.
 
 > "🏛️ THE ARRIVAL - You are brought to a high tower in the palace of Knossos. A man with haunted eyes introduces himself as Daedalus. 'King Minos has a task for us,' he says. 'A glorious, eternal task.'" - The First Line
 
