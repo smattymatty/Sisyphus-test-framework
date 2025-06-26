@@ -1,6 +1,8 @@
 # 🪨 Sisyphus Test Framework
 *A Narrative RPG Test Framework for Dopamine-Driven Development*
 
+![image](https://github.com/user-attachments/assets/a01c1189-fc98-4f2c-b7a5-4b589a041dec)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Greek Mythology](https://img.shields.io/badge/Powered%20by-Greek%20Mythology-blue.svg)](https://en.wikipedia.org/wiki/Sisyphus)
 [![Existential Dread](https://img.shields.io/badge/Existential%20Dread-Included-purple.svg)](#)
@@ -8,9 +10,14 @@
 
 > *"One must imagine Sisyphus coding."* - What Camus would say if he were a developer
 
+![image](https://github.com/user-attachments/assets/a7549e84-b123-4c59-a275-9b4f3bfffacb)
+
+
 ## What is This Madness?
 
 **The Sisyphus Test Framework** is the world's first **Narrative RPG Test Framework** that transforms the eternal struggle of testing into an epic mythological journey. Instead of dreading test failures, you'll find yourself addicted to the dopamine rush of leveling up, unlocking achievements, and uncovering the dark, beautiful story of Sisyphus and Daedalus building the Labyrinth.
+
+![Example of Fixing Tests, one test remaining](https://i.imgur.com/3nk5pXP.png)
 
 Does YOUR test framework double as a Narrative RPG? **Mine does.**
 
