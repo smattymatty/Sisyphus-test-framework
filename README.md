@@ -1,10 +1,10 @@
 # 🪨 Sisyphus Test Framework
-*A Narrative RPG Test Framework for Dopamine-Driven Development*
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Greek Mythology](https://img.shields.io/badge/Powered%20by-Greek%20Mythology-blue.svg)](https://en.wikipedia.org/wiki/Sisyphus)
 [![Existential Dread](https://img.shields.io/badge/Existential%20Dread-Included-purple.svg)](#)
 [![Camus Approved](https://img.shields.io/badge/Camus-Approved-black.svg)](#)
+
+*A Narrative RPG Test Framework for Dopamine-Driven Development*
 
 > *"One must imagine Sisyphus coding."* - What Camus would say if he were a developer
 
